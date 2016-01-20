@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <script src="http://ecn.dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=7.0&mkt=de-de" type="text/javascript" charset="UTF-8"></script>
+    </head>
+    <body onload="init()">
+        
+        
+        <div id="map" style="width=100%; height=100%;"></div>
+        
+        
+        <script type="text/javascript">
+            function init(){
+                
+                var map = new Microsoft.Maps.Map(
+                                                 document.getElementById("map"),
+                                                 {
+                                                 credentials: "Ai9lNBZJWQNeUyh4g6rRD4Z7RLGKIUR8zXuwxIatTdTyoyp15hlUEg0Lf8X3urrI",
+                                                 zoom: 15,
+                                                 center: new Microsoft.Maps.Location(40.806124, -73.963474)
+                                                 }
+                                                 );
+                                                 
+                                                 map.entities.clear()
+                                                 var pin1 = new Microsoft.Maps.Pushpin(new Microsoft.Maps.Location(40.8029671,-73.9672391), { text: '1', typeName: 'normal'});
+                                                 map.entities.push(pin1);
+                                                 
+                                                 var pin2 = new Microsoft.Maps.Pushpin(new Microsoft.Maps.Location(40.8037491,-73.9634271), { text: '2', typeName: 'alert'});
+                                                 map.entities.push(pin2);
+                                                 
+                                                 var pin3 = new Microsoft.Maps.Pushpin(new Microsoft.Maps.Location(40.8020151,-73.9612121), { text: '3', typeName: 'normal'});
+                                                 map.entities.push(pin3);
+                                                 
+                                                 
+                                                 
+                                                 
+            }
+        </script>
+        <style type="text/css">
+            .normal div { color: LightGreen !important; };
+            </style>
+        <style type="text/css">
+            .alert div { color: Red !important; };
+            </style>
+        
+        
+        
+    </body>
+</html>

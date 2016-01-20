@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iConnect2/ViewController.swift"
+            timestampString = "471608749.624844"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iConnect2.ViewController.statusLabel1.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "iConnect2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darthvader/Documents/iConnect2/iConnect2/ViewController.swift"
+                  timestampString = "471133411.090743"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iConnect2.ViewController.statusLabel1.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "iConnect2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darthvader/Documents/iConnect2/iConnect2/ViewController.swift"
+                  timestampString = "471133411.097885"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iConnect2.ViewController.statusLabel1.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "iConnect2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darthvader/Documents/iConnect2/iConnect2/ViewController.swift"
+                  timestampString = "471133411.098175"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iConnect2.ViewController.init (iConnect2.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; iConnect2.ViewController"
+                  moduleName = "iConnect2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darthvader/Documents/iConnect2/iConnect2/ViewController.swift"
+                  timestampString = "471133411.098369"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "624">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iConnect2.ViewController.init (iConnect2.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;iConnect2.ViewController&gt;"
+                  moduleName = "iConnect2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darthvader/Documents/iConnect2/iConnect2/ViewController.swift"
+                  timestampString = "471133411.098596"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "568">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iConnect2/ViewController.swift"
+            timestampString = "471608749.624844"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iConnect2/ViewController.swift"
+            timestampString = "471609851.124054"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "205"
+            endingLineNumber = "205"
+            landmarkName = "urlConstruct(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iConnect2/ViewController.swift"
+            timestampString = "471326247.536316"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iConnect2.ViewController.thread1.getter : Swift.Optional&lt;__ObjC.NSThread&gt;"
+                  moduleName = "iConnect2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darthvader/Documents/iConnect2/iConnect2/ViewController.swift"
+                  timestampString = "471321208.315847"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iConnect2.ViewController.thread1.setter : Swift.Optional&lt;__ObjC.NSThread&gt;"
+                  moduleName = "iConnect2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darthvader/Documents/iConnect2/iConnect2/ViewController.swift"
+                  timestampString = "471321208.316444"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iConnect2.ViewController.thread1.materializeForSet : Swift.Optional&lt;__ObjC.NSThread&gt;"
+                  moduleName = "iConnect2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darthvader/Documents/iConnect2/iConnect2/ViewController.swift"
+                  timestampString = "471321208.316903"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iConnect2.ViewController.init (iConnect2.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; iConnect2.ViewController"
+                  moduleName = "iConnect2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darthvader/Documents/iConnect2/iConnect2/ViewController.swift"
+                  timestampString = "471321208.317192"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iConnect2.ViewController.init (iConnect2.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;iConnect2.ViewController&gt;"
+                  moduleName = "iConnect2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darthvader/Documents/iConnect2/iConnect2/ViewController.swift"
+                  timestampString = "471321208.317508"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iConnect2/ViewController.swift"
+            timestampString = "471609851.124054"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "172"
+            endingLineNumber = "172"
+            landmarkName = "urlConstruct(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iConnect2/ViewController.swift"
+            timestampString = "471608749.624844"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iConnect2/ViewController.swift"
+            timestampString = "471328059.945866"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iConnect2.ViewController.route.getter : Swift.String"
+                  moduleName = "iConnect2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darthvader/Documents/iConnect2/iConnect2/ViewController.swift"
+                  timestampString = "471321208.320461"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iConnect2.ViewController.route.setter : Swift.String"
+                  moduleName = "iConnect2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darthvader/Documents/iConnect2/iConnect2/ViewController.swift"
+                  timestampString = "471321208.320794"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iConnect2.ViewController.route.materializeForSet : Swift.String"
+                  moduleName = "iConnect2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darthvader/Documents/iConnect2/iConnect2/ViewController.swift"
+                  timestampString = "471321208.32111"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iConnect2.ViewController.init (iConnect2.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; iConnect2.ViewController"
+                  moduleName = "iConnect2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darthvader/Documents/iConnect2/iConnect2/ViewController.swift"
+                  timestampString = "471321208.321392"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "328">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iConnect2.ViewController.init (iConnect2.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;iConnect2.ViewController&gt;"
+                  moduleName = "iConnect2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darthvader/Documents/iConnect2/iConnect2/ViewController.swift"
+                  timestampString = "471321208.321675"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "272">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iConnect2/ViewController.swift"
+            timestampString = "471608749.624844"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "connectServer()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
